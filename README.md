@@ -26,16 +26,16 @@ This insight can help prioritize service improvements for high-value clients to 
 
 ## 🛠 What I Implemented in This Power BI Dashboard:
 
- 🔹 Interactive Visuals & KPIs – Designed dynamic performance cards to track OT%, IF%, OTIF%, LIFR%, and VOFR% in real time.
- 🔹 City-Level Breakdown – Used bar charts to compare performance across Ahmedabad, Surat, and Vadodara.
- 🔹 Scatter Plot Analysis – Built a Customer Order Volume vs. Service Performance scatter chart to correlate order quantity with service levels.
+ * 🔹 Interactive Visuals & KPIs – Designed dynamic performance cards to track OT%, IF%, OTIF%, LIFR%, and VOFR% in real time.
+ * 🔹 City-Level Breakdown – Used bar charts to compare performance across Ahmedabad, Surat, and Vadodara.
+ * 🔹 Scatter Plot Analysis – Built a Customer Order Volume vs. Service Performance scatter chart to correlate order quantity with service levels.
 
 ## 📖 What I Learned from This Power BI Project:
 
- 🎯 Data Transformation in Power Query – Cleaned and prepared raw supply chain data for analysis.
- 🎯 DAX Measures & Calculations – Used advanced DAX formulas for LIFR%, VOFR%, ADDD, and Performance Gaps.
- 🎯 Bookmark Navigation & Dynamic Visuals – Implemented button-based visual switching for an interactive experience.
- 🎯 Business Storytelling with Data – Translated complex data into actionable insights for supply chain optimization.
+ * 🎯 Data Transformation in Power Query – Cleaned and prepared raw supply chain data for analysis.
+ * 🎯 DAX Measures & Calculations – Used advanced DAX formulas for LIFR%, VOFR%, ADDD, and Performance Gaps.
+ * 🎯 Bookmark Navigation & Dynamic Visuals – Implemented button-based visual switching for an interactive experience.
+ * 🎯 Business Storytelling with Data – Translated complex data into actionable insights for supply chain optimization.
 
 ## 🔍 Business Impact & Next Steps:
 
